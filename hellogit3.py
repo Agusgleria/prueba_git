@@ -1,1 +1,1 @@
-print("Nuevo Hello Git 3!, ahora una versión v3 (versión dentro de login)")
+print("Nuevo Hello Git 3!, ahora una versión v3 (dentro de rama main)")
